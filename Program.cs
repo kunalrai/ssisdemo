@@ -10,6 +10,8 @@ namespace SSIS_Status
     {
         static void Main(string[] args)
         {
+            new ssis().get();
+            Console.ReadLine();
         }
     }
 }

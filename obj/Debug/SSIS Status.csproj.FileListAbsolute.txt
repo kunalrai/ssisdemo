@@ -1,0 +1,9 @@
+C:\demo\ssis status demo\SSIS Status\obj\Debug\SSIS Status.csproj.AssemblyReference.cache
+C:\demo\ssis status demo\SSIS Status\obj\Debug\SSIS Status.csproj.CoreCompileInputs.cache
+C:\demo\ssis status demo\SSIS Status\bin\Debug\SSIS Status.exe.config
+C:\demo\ssis status demo\SSIS Status\bin\Debug\SSIS Status.exe
+C:\demo\ssis status demo\SSIS Status\bin\Debug\SSIS Status.pdb
+C:\demo\ssis status demo\SSIS Status\bin\Debug\Microsoft.SqlServer.Management.IntegrationServices.dll
+C:\demo\ssis status demo\SSIS Status\obj\Debug\SSIS Status.csproj.CopyComplete
+C:\demo\ssis status demo\SSIS Status\obj\Debug\SSIS Status.exe
+C:\demo\ssis status demo\SSIS Status\obj\Debug\SSIS Status.pdb
